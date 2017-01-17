@@ -12,7 +12,7 @@
             "name": "Magento Chile",
             "email": "soporte@magentochile.cl",
             "homepage": "https://www.magentochile.cl"
-        },
+        }
     ],
     "minimum-stability": "dev",
     "require": {
