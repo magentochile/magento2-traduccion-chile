@@ -1,6 +1,7 @@
 {
     "name": "magentochile/magento2-traducion-chile",
     "description": " Magento2 Spanish Language Pack (es_CL) ",
+    "version": "100.0.1",
     "homepage": "https://github.com/magentochile/magento2-traduccion-chile",
     "license": [
         "OSL-3.0"
