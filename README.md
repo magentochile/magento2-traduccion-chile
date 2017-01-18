@@ -38,4 +38,12 @@ The solution the BUG? Good for the moment is to use, this pack of Spanish langua
 ## Official version
 Remember that for a translation if you want a more complete translation and adapted to the country Chile, you can acquire the official language pack of Magento Chile in: https://www.magentochile.cl/m2-spanish-language-pack.html
 
+## Important Note: 
+This pack of languages, only contains the skeleton for translations, which you can install and once installed can translate the file es_CL respectively.
+
+## Installation
+composer require magentochile/magento2-traduccion-chile dev-master
+php -d memory_limit=-1 bin/magento setup:static-content:deploy es_CL
+php bin/magento cache:clean
+
 ## End
