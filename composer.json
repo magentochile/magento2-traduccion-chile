@@ -1,26 +1,30 @@
 {
     "name": "magentochile/magento2-traduccion-chile",
     "description": " Magento2 Spanish Language Pack (es_CL) ",
-    "type": "magento2-language",
-    "version": "100.0.1",
     "homepage": "https://github.com/magentochile/magento2-traduccion-chile",
     "license": [
-        "OSL-3.0"      
+        "OSL-3.0"
     ],
     "authors": [
         {
             "name": "Magento Chile",
-            "email": "soporte@magentochile.cl",
-            "homepage": "https://www.magentochile.cl"
+            "homepage": "https://github.com/magentochile"
+        },
+        {
+            "name": "Magento2 traduccion chilena ",
+            "homepage": "https://crowdin.com/project/magento-2"
         }
     ],
-    "minimum-stability": "dev",
     "require": {
         "magento/framework": "100.*"
     },
+    "type": "magento2-language",
     "autoload": {
         "files": [
             "registration.php"
         ]
     }
 }
+
+ 
+
