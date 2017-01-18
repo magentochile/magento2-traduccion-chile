@@ -11,12 +11,13 @@
             "homepage": "https://github.com/magentochile"
         },
         {
-            "name": "Magento2 traduccion chilena ",
+            "name": "Magento2 Traduccion Chile",
             "homepage": "https://crowdin.com/project/magento-2"
         }
     ],
+    "minimum-stability": "dev",
     "require": {
-        "magento/framework": "100.*"
+        "magento/framework": "100.*@dev"
     },
     "type": "magento2-language",
     "autoload": {
