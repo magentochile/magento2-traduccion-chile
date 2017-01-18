@@ -28,7 +28,7 @@ See documentation: https://www.magentochile.cl/m2-spanish-language-pack.html
 
 * Website: https://www.magentochile.cl/
 * Packagist: https://packagist.org/packages/magentochile/magento2-traduccion-chile
-* Github: https://github.com/magentochile/magento2-traduccion-chile
+* Github: https://github.com/magentochile/magento2-traduccion-chile/
 * Official version: https://www.magentochile.cl/m2-spanish-language-pack.html
 
 ## BUG Magento 2
