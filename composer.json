@@ -1,6 +1,7 @@
 {
     "name": "magentochile/magento2-traduccion-chile",
     "description": " Magento2 Spanish Language Pack (es_CL) ",
+    "type": "magento2-language",
     "version": "100.0.1",
     "homepage": "https://github.com/magentochile/magento2-traduccion-chile",
     "license": [
@@ -14,11 +15,9 @@
         }
     ],
     "minimum-stability": "dev",
-    "prefer-stable" : true
     "require": {
         "magento/framework": "100.*"
     },
-    "type": "magento2-language",
     "autoload": {
         "files": [
             "registration.php"
