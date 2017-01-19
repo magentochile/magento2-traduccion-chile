@@ -34,9 +34,9 @@ See documentation: https://www.magentochile.cl/m2-spanish-language-pack.html
 ## BUG Magento 2 #7502
 For some strange reason, and most likely it is a Magento 2 bug, it is that it does not update the shopping cart. It has been tested with es_CL and does not start the update of the cart.
 
-The solution the BUG #7502? At the moment, until Magento 2 fixes Bug #7502, you should add the following to your vendor/magento/zendframework1/library/Zend/Locale/Data/es_419.xml file the following, after "<decimalFormats numberSystem="latn">":
+The solution the BUG #7502? At the moment, until Magento 2 fixes Bug #7502, you should add the following to your vendor/magento/zendframework1/library/Zend/Locale/Data/es_419.xml file the following, after decimalFormats numberSystem="latn":
 
-      			<decimalFormats numberSystem="latn">
+      		<decimalFormats numberSystem="latn">
 			<!-- Bug Magento 2 reported: https://github.com/magento/magento2/issues/7502 -->
 			<!-- This part is new  -->
 			<decimalFormatLength>
