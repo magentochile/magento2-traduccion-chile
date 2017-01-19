@@ -53,7 +53,7 @@ The solution the BUG #7502? At the moment, until Magento 2 fixes Bug #7502, you 
 Remember that for a translation if you want a more complete translation and adapted to the country Chile, you can acquire the official language pack of Magento Chile in: https://www.magentochile.cl/m2-spanish-language-pack.html
 
 ## Important Note: 
-This pack of languages, only contains the skeleton for translations, which you can install and once installed can translate the file es_CL respectively.
+This pack of languages, only contains the skeleton for translations (Not translated), which you can install and once installed can translate the file vendor/magentochile/magento2-traduccion-chile/es_CL.csv respectively.
 
 ## Installation
 composer require magentochile/magento2-traduccion-chile dev-master
