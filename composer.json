@@ -16,9 +16,7 @@
         }
     ],
     "minimum-stability": "dev",
-    "require": {
-        "magento/framework": "100.*"
-    },
+    
     "type": "magento2-language",
     "autoload": {
         "files": [
