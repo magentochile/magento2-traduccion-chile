@@ -17,8 +17,7 @@
     ],
     "minimum-stability": "dev",
     "require": {
-        "magento/framework": "100.0.*",
-   	    "magento/framework": "101.0.*"
+        "magento/framework": "100.0.*"
     },
     
     "type": "magento2-language",
